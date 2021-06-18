@@ -57,7 +57,7 @@
             <TextField fx:id="panjangPetalTextField" GridPane.columnIndex="1" GridPane.rowIndex="2" />
             <TextField fx:id="lebarPetalTextField" GridPane.columnIndex="1" GridPane.rowIndex="3" />
             <TextField fx:id="jenisBungaIrisTextField" editable="false" focusTraversable="false" GridPane.columnIndex="1" GridPane.rowIndex="4" />
-            <Button mnemonicParsing="false" onAction="#prediksiButtonPressed" prefHeight="39.0" prefWidth="83.0" text="Prediksi" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+            <Button defaultButton="true" mnemonicParsing="false" onAction="#prediksiButtonPressed" prefHeight="39.0" prefWidth="83.0" text="Prediksi" GridPane.columnIndex="1" GridPane.rowIndex="5" />
          </children>
          <padding>
             <Insets bottom="14.0" left="14.0" right="14.0" top="14.0" />
